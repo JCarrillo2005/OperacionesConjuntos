@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\ProyectoFinalMATE\bin\Debug\ProyectoFinalMATE.exe.config
+C:\Users\DELL\source\repos\ProyectoFinalMATE\bin\Debug\ProyectoFinalMATE.exe
+C:\Users\DELL\source\repos\ProyectoFinalMATE\bin\Debug\ProyectoFinalMATE.pdb
+C:\Users\DELL\source\repos\ProyectoFinalMATE\obj\Debug\ProyectoFinalMATE.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ProyectoFinalMATE\obj\Debug\ProyectoFinalMATE.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ProyectoFinalMATE\obj\Debug\ProyectoFinalMATE.exe
+C:\Users\DELL\source\repos\ProyectoFinalMATE\obj\Debug\ProyectoFinalMATE.pdb
